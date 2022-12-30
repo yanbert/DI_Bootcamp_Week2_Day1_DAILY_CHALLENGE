@@ -44,6 +44,11 @@ console.log(moreFruits)
 console.log('------------------------------------------------------')
 console.log('')
 // 1 .Accedons à Orange
+
+/****************************************
+Correcteur: Yannick GOUGUIA
+Merci de revoir cet exercice
+****************************************/
 console.log('---------- AFFICHAGE DU MOT ORANGE -------------------')
 console.log(moreFruits[1][1][0])
 console.log('------------------------------------------------------')
